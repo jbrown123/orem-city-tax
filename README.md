@@ -1,4 +1,5 @@
-# Orem City Tax
+# Orem city tax
+
 Retrieve tax information from Utah County website
 
 This is a quick hack to grab tax data from the county land information system
